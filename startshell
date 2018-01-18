@@ -1,0 +1,6 @@
+#zk start
+zkServer.sh start
+# stat check
+echo stat|nc localhost 2181
+echo stat|nc localhost 2182
+echo stat|nc localhost 2183
