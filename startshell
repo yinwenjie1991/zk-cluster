@@ -1,3 +1,4 @@
+# 部署完成后使用如下命令启动zk
 #zk start
 zkServer.sh start
 # stat check
